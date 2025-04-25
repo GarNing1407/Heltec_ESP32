@@ -8,7 +8,7 @@
 #include "../driver/sx126x-board.h"
 #include "../loramac/utilities.h"
 #include "../radio/radio.h"
-
+#include "Arduino.h"
 
 /*!
  * \brief Initializes the radio
